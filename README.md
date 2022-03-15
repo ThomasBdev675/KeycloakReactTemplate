@@ -33,6 +33,8 @@ A function that accepts an array of strings and returns a boolean if one of the 
 ---
 
 ## Special thanks:
+A special thank you to Dewald Els for  providing this react keycloak service.
+
 A special thank you to Niko Köbler for his tutorial on React with keycloak
 ### Source code:
 [https://github.com/dasniko/keycloak-reactjs-demo](https://github.com/dasniko/keycloak-reactjs-demo)
