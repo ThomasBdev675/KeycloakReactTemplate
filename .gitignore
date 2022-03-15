@@ -20,9 +20,6 @@
 .vscode
 .idea
 
-# data
-*.json
-
 # logs
 npm-debug.log*
 yarn-debug.log*
