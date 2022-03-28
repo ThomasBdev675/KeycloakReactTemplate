@@ -48,7 +48,7 @@ A function that accepts an array of strings and returns a boolean if one of the 
 
 ## Special thanks:
 
-A special thank you to Dewald Els for this React Keaycloak service.
+A special thank you to Dewald Els for this React Keaycloak service.  [https://gitlab.com/sumodevelopment/react-keycloak-template]
 
 A special thank you to Niko Köbler for his tutorial on React with keycloak
 
